@@ -1,5 +1,7 @@
-<p align="center"> $\color{#46923c}{\text{"Give me the mace, and then I'll kill them, but then I'll kill you after."}}$ <br>
+<p align="center"> $\color{#00000}{\text{"The end is nigh."}}$ <br>
 <div align="center">
-  <img src="Screenshot_6.png" alt="Project Logo" width="600" />
+  <p align="center"> $\color{#00000}{\text{"The end is null."}}$ <br>
+<div align="center">
+  <img src="the-broken-script-null.gif" alt="Project Logo" width="600" />
 </div>
 
